@@ -1,6 +1,6 @@
 # Black-Friday-Sales-Data-Analysis-
 
-https://medium.com/@shivvam2002/my-data-analytics-project-black-friday-sales-data-analysis-8dacafe0f5b4 
+
 
 Prerequisites for this project: Pandas, Numpy, Seaborn.   
 
